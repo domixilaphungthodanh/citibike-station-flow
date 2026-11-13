@@ -1,0 +1,6 @@
+*.sqlite
+*.building
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.venv/

@@ -1,0 +1,13 @@
+{
+  "raw_rows": 105444,
+  "valid_rides": 105444,
+  "missing_ride_id": 0,
+  "invalid_times": 0,
+  "duplicate_ride_id": 0,
+  "missing_start_id": 0,
+  "missing_end_id": 298,
+  "missing_or_invalid_coordinates": 0,
+  "unknown_station_ids": 0,
+  "departures": 26434,
+  "arrivals": 26140
+}
